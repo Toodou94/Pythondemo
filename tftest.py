@@ -8,7 +8,7 @@ Created on Wed Jun 28 11:31:29 2017
 import matplotlib.pyplot as plt
 import numpy as np
  
-gold,chihh = 400,400
+gold,chihh = 250,200
 
 gold_height = 40 + 10* np.random.randn(gold)
 chihh_height = 25 + 6* np.random.randn(chihh)
